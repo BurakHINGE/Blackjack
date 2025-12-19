@@ -74,4 +74,5 @@ java blackjack
 ## 📄 License / Lisans
 
 This project is licensed under the **MIT License** 
+
 Bu proje **MIT Lisansı** ile lisanslanmıştır.

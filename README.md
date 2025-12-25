@@ -1,4 +1,4 @@
-# Blackjack / BlackJack Oyunu
+# Blackjack
 
 ![Java](https://img.shields.io/badge/Java-17+-orange) ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
